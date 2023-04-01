@@ -11,13 +11,7 @@ body
     overflow: hidden;
     background-color: black;
 }
-.d1
-{
-    width: 200px;
-    height: 200px;
-    background-color: purple ;
-    margin: 25px;
-}
+
 @media screen and (min-width:250px) and (max-width:600px) {
     body {
         flex-direction: column;
